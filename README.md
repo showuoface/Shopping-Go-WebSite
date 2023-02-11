@@ -1,3 +1,6 @@
+# 事先npm install 
+不要把 node_modules上傳至git hub
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
